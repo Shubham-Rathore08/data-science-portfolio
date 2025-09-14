@@ -10,7 +10,7 @@ Repository conataining portfolio of data science projects completed by me for ac
 -	Achieved 83% model accuracy on test data and provided data-driven insights into key factors influencing landing success.
 -	Developed interactive dashboards and geospatial visualizations to display launch site performance and success rates.
 
-## [Project 2: Cyclistic Bike-Share Case Study]
+## [Project 2: Cyclistic Bike-Share Case Study](https://github.com/Shubham-Rathore08/cyclistic-bike-share-analysis)
 -		Analyzed 12 months of bike-share usage data to identify behavioral trends between casual riders and annual members.
 -	Cleaned and prepared large datasets using R and Excel, ensuring data consistency and accuracy.
 -	Conducted exploratory data analysis (EDA) to uncover user patterns and usage frequency across different demographics and seasons.
