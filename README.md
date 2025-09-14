@@ -3,7 +3,7 @@ Repository conataining portfolio of data science projects completed by me for ac
 
 # Projects
 
-## [Project 1: SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction))
+## [Project 1: SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction)
 -	Designed and implemented a machine learning model to predict SpaceX Falcon 9 first stage landing outcomes.
 -	Utilized Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Folium, and Plotly Dash for data collection, cleaning, feature engineering, and visualization.
 -	Conducted exploratory data analysis (EDA) and built predictive models including Logistic Regression, Decision Tree, KNN, and SVM.
