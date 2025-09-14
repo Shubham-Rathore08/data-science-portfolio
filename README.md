@@ -13,7 +13,7 @@ _Click on project name to get to the project repository._
 -	Developed interactive dashboards and geospatial visualizations to display launch site performance and success rates.
 
 ## [Project 2: Cyclistic Bike-Share Case Study](https://github.com/Shubham-Rathore08/cyclistic-bike-share-analysis)
--		Analyzed 12 months of bike-share usage data to identify behavioral trends between casual riders and annual members.
+-	Analyzed 12 months of bike-share usage data to identify behavioral trends between casual riders and annual members.
 -	Cleaned and prepared large datasets using R and Excel, ensuring data consistency and accuracy.
 -	Conducted exploratory data analysis (EDA) to uncover user patterns and usage frequency across different demographics and seasons.
 -	Developed visual dashboards and charts in Tableau to support strategic recommendations aimed at converting casual riders to annual members.
