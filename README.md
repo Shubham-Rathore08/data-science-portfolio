@@ -1,6 +1,8 @@
 # Data Science Portfolio
 Repository conataining portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
+_Click on project name to get to the project repository._
+
 # Projects
 
 ## [Project 1: SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction)
