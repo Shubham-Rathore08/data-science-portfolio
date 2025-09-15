@@ -19,4 +19,8 @@ _Click on project name to get to the project repository._
 -	Developed visual dashboards and charts in Tableau to support strategic recommendations aimed at converting casual riders to annual members.
 
 ## [Project 3: Tesla_GameStop_Stock_Analysis](https://github.com/Shubham-Rathore08/Tesla_GameStop_Stock_Analysis)
-
+- Historical share price extraction using yfinance
+- Quarterly revenue scraping from MacroTrends using BeautifulSoup
+- Cleaned and structured data using pandas
+- Visualizations with plotly and plotly.subplots
+- Insights into stock and revenue trends
