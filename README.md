@@ -24,3 +24,7 @@ _Click on project name to get to the project repository._
 - Cleaned and structured data using pandas
 - Visualizations with plotly and plotly.subplots
 - Insights into stock and revenue trends
+
+# Badges
+
+## [Badges on Credly](https://www.credly.com/users/shubham-rathore.7292b746)
