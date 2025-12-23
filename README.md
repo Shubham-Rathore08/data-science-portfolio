@@ -31,5 +31,5 @@ _Click on project name to get to the project repository._
 
 # Certificates
 
-### IBM Data Science Professional Certificate[https://www.coursera.org/account/accomplishments/professional-cert/772ADZ56DGQ2] 
-### Google Data Analytics Professional Certificate[https://www.coursera.org/account/accomplishments/professional-cert/BH7P5NDGR0IU]
+### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/772ADZ56DGQ2) 
+### [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BH7P5NDGR0IU)
