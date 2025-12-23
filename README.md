@@ -28,3 +28,8 @@ _Click on project name to get to the project repository._
 # Badges
 
 ## [Badges on Credly](https://www.credly.com/users/shubham-rathore.7292b746)
+
+# Certificates
+
+### IBM Data Science Professional Certificate[https://www.coursera.org/account/accomplishments/professional-cert/772ADZ56DGQ2] 
+### Google Data Analytics Professional Certificate[https://www.coursera.org/account/accomplishments/professional-cert/BH7P5NDGR0IU]
